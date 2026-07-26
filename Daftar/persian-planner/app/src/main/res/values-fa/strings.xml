@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">دفتر</string>
+
+    <!-- Navigation -->
+    <string name="nav_tasks">کارها</string>
+    <string name="nav_notes">یادداشت‌ها</string>
+    <string name="nav_journal">خاطرات</string>
+
+    <!-- Tasks screen -->
+    <string name="tasks_today">امروز: %1$s</string>
+    <string name="tasks_empty">هنوز کاری اضافه نکردی — با دکمه‌ی + شروع کن</string>
+    <string name="task_dialog_title">کار جدید</string>
+    <string name="label_title">عنوان</string>
+    <string name="label_description">توضیحات</string>
+    <string name="priority_high">مهم</string>
+    <string name="priority_medium">متوسط</string>
+    <string name="priority_low">کم‌اهمیت</string>
+    <string name="reminder_checkbox_label">یادآوری بفرست</string>
+    <string name="reminder_today">امروز</string>
+    <string name="reminder_tomorrow">فردا</string>
+    <string name="reminder_pick_time">انتخاب ساعت</string>
+    <string name="reminder_time_format">ساعت %1$d:%2$02d</string>
+    <string name="time_picker_title">انتخاب ساعت یادآوری</string>
+    <string name="category_general">عمومی</string>
+
+    <!-- Notes screen -->
+    <string name="notes_empty">یادداشتی نداری — یکی با استیکر دلخواهت بساز</string>
+    <string name="note_dialog_title">یادداشت جدید</string>
+    <string name="label_content">متن</string>
+    <string name="note_color_label">رنگ:</string>
+    <string name="note_sticker_label">استیکر:</string>
+    <string name="attach_label">پیوست:</string>
+    <string name="attach_photo">📷 عکس</string>
+    <string name="attach_file">📎 فایل</string>
+    <string name="record_start">🎙️ ضبط صدا</string>
+    <string name="record_stop">⏹️ توقف ضبط</string>
+    <string name="attach_count">%1$d فایل پیوست شد</string>
+    <string name="attach_count_short">📎 %1$d پیوست</string>
+    <string name="voice_recorded">یادداشت صوتی ضبط شد</string>
+    <string name="voice_tag">🎙️ صوت</string>
+
+    <!-- Journal screen -->
+    <string name="journal_header">دفتر خاطرات</string>
+    <string name="journal_empty">اولین خاطره‌ی امروزت رو بنویس</string>
+    <string name="journal_dialog_title">خاطره‌ی امروز</string>
+    <string name="journal_content_hint">چه اتفاقی افتاد؟</string>
+    <string name="mood_label">حال و هوا:</string>
+    <string name="mood_happy">خوشحال 😄</string>
+    <string name="mood_calm">آرام 🌿</string>
+    <string name="mood_tired">خسته 😴</string>
+    <string name="mood_energetic">پرانرژی ⚡</string>
+    <string name="mood_sad">غمگین 🌧️</string>
+    <string name="mood_busy">پرمشغله 🌀</string>
+    <string name="journal_no_title">بدون عنوان</string>
+
+    <!-- Shared actions -->
+    <string name="action_add">افزودن</string>
+    <string name="action_cancel">انصراف</string>
+    <string name="action_confirm">تأیید</string>
+    <string name="action_save">ثبت</string>
+    <string name="action_delete">حذف</string>
+
+    <!-- Widget -->
+    <string name="widget_title">کارهای امروز</string>
+    <string name="widget_empty">کاری برای امروز نداری ✨</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">یادآوری‌های دفتر</string>
+    <string name="notif_channel_desc">یادآوری کارهایی که برایشان زمان تعیین کرده‌ای</string>
+    <string name="notif_title">یادآوری دفتر</string>
+</resources>
