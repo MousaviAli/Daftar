@@ -1,6 +1,0 @@
-<resources>
-    <style name="Theme.ParsaPlanner" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:statusBarColor">#FBF3E7</item>
-        <item name="android:windowBackground">#FBF3E7</item>
-    </style>
-</resources>
